@@ -1,0 +1,5 @@
+name: Rifle
+version: '${project.version}'
+main: me.isaacfediw.rifle.Rifle
+api-version: 1.19
+description: A working rifle in minecraft
